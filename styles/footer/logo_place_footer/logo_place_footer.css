@@ -1,0 +1,7 @@
+.logo_place_footer{
+    position: relative;
+    
+    height: 32px;
+    width: 228px;
+    border: 1px solid var(--border-color);
+  }

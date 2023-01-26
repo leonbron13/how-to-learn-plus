@@ -1,0 +1,9 @@
+.content{
+    position: relative;
+    margin-top: 100px;
+
+    display: inline-block;
+    line-height: 25px;
+    border: 1px solid var(--border-color);
+    
+}  
