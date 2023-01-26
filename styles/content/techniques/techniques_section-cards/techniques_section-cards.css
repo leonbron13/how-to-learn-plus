@@ -1,8 +1,0 @@
-.techniques_section-cards{
-    width: 920px;
-    display: flex;
-    justify-content: space-between;
-    border: 1px solid var(--border-color);
-    margin: 0px auto;
-    
-}
