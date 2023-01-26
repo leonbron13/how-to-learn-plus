@@ -1,0 +1,16 @@
+.column-link{
+    margin-bottom: 16px;
+    text-decoration: none;
+    color: #f2f2f2;
+    transition: opacity .2s linear;
+    cursor: pointer;
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: normal;
+    border: 1px solid var(--border-color);
+  }
+  
+  .column-link:hover {
+    opacity: .5;
+  }
+ 

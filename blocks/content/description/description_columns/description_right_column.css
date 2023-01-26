@@ -1,0 +1,6 @@
+.description_right_column{
+  min-width: 784px;
+  border: 1px solid var(--border-color);  
+  width: 80%;
+}
+  
