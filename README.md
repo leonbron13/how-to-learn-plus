@@ -24,3 +24,4 @@ Flexbox;
 Чеклисты Проектной работы:
 Чеклист 1
 Ссылка на сайт:
+https://leonbron13.github.io/how-to-learn-plus/
